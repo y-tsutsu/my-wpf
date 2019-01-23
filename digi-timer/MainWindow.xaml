@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:digi_timer"
         mc:Ignorable="d"
-        Title="Digital Timer" Height="250" Width="800" ShowInTaskbar="False" Topmost="True">
+        Title="Digital Timer" Height="250" Width="800" Topmost="True" ShowInTaskbar="False" Icon="favicon.ico">
     <Grid>
         <Viewbox>
             <TextBlock x:Name="textBlock" Text="00:00:00" MouseDown="TextBlock_MouseDown"/>
