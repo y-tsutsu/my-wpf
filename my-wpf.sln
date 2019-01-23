@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-wpf", "my-wpf\my-wpf.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digi-timer", "digi-timer\digi-timer.csproj", "{A72AD207-3272-4DCF-99BB-642E41EFCB99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layout", "layout\layout.csproj", "{C2115FB4-9538-43CB-AEA7-046DFA04238D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A72AD207-3272-4DCF-99BB-642E41EFCB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A72AD207-3272-4DCF-99BB-642E41EFCB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A72AD207-3272-4DCF-99BB-642E41EFCB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2115FB4-9538-43CB-AEA7-046DFA04238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2115FB4-9538-43CB-AEA7-046DFA04238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2115FB4-9538-43CB-AEA7-046DFA04238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2115FB4-9538-43CB-AEA7-046DFA04238D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
