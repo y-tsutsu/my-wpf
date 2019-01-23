@@ -24,5 +24,10 @@ namespace my_wpf
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("こんにちは，世界！");
+        }
     }
 }

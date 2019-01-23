@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="こんにちは，世界！" HorizontalAlignment="Left" Margin="249,155,0,0" VerticalAlignment="Top" Width="327" RenderTransformOrigin="-0.521,0.129" Height="132" FontSize="36" Click="Button_Click"/>
+
     </Grid>
 </Window>
